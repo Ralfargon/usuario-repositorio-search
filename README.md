@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/Ralfargon/maratonandosuaserie)
+
 ##  Busca de repositórios de um usuário do Github.
 Projeto criado utilizando create-react-app. 
 
